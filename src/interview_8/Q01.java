@@ -58,6 +58,7 @@ public class Q01 {
         // her element unique olduğu için tekrar eden elemanı görünce eskisini silip yenisini yazdı
         System.out.println("Set son hal = " + set); // [50, 20, 40, 10, 30]
 
+
     }
 
 }
